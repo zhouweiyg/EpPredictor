@@ -66,7 +66,7 @@ then into folder **path/EpPredictor/EP-interaction/Viaualization/model/**, and o
 
   into *path/EpPredictor/core/*, and run **muti_feature_extractor.py**:
 
-  Usage: *muti_feature_extractor.py --chipseq_path '../data/IMR90/ --interaction_path '../EP-interaction/data/IMR90/midfile/IMR90_pairs.csv' --feature_save_path   '../EP-interaction/data/IMR90/muti-midfile/'*
+  Usage: ```python muti_feature_extractor.py --chipseq_path '../data/IMR90/ --interaction_path '../EP-interaction/data/IMR90/midfile/IMR90_pairs.csv' --feature_save_path   '../EP-interaction/data/IMR90/muti-midfile/'```
 
   | parameter name    |      | default                                                | meaning                 |
   | ----------------- | ---- | ------------------------------------------------------ | ----------------------- |
