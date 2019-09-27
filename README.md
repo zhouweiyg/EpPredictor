@@ -59,7 +59,7 @@ then into folder **path/EpPredictor/EP-interaction/Viaualization/model/**, and o
 - step1: prepare souce data, including interaction pairs, chip-seqs and sequences
 
   1. all the chip-seq feature can be download from ENCODE Project or NCBI, the detail chip-seq feature we used can be find in **protein_info.xlsx**, it's not necessary use complete chip-seqs, you can use as much as you can get. Next, put these files into *path/EpPredictor/data/cell line/xxx.bed*
-  2. download interaction pairs from [interactions](https://drive.google.com/open?id=1Wih5l07BnQ47r6kQUtCywFKaaEiRi-K3) or [targetfinder](https://github.com/shwhalen/targetfinder.git), and put these file into *path/EpPredictor/EP-interactions/data/cell line/midfile/xxx.csv*
+  2. download interaction pairs from [interactions](https://drive.google.com/open?id=1Wih5l07BnQ47r6kQUtCywFKaaEiRi-K3), note above linke 'requires data' is contain these interaction file or download from  [targetfinder](https://github.com/shwhalen/targetfinder.git), and put these file into *path/EpPredictor/EP-interactions/data/cell line/midfile/xxx.csv*
   3. download sequence data(fastaq format), put it into *path/EpPredictor/EP-interaction/data/sequence/hg19.id_chrxx.fa*
 
 - step2: extract chip-seq features:
