@@ -1,5 +1,5 @@
 # EpPredictor
-Enhancer-Promoter interactions(EPI) predictions using machine learning approach 
+Enhancer-Promoter interactions(EPI) predict using machine learning approach 
 
 Welcome to the EpPredictor, Here is the file format:
 
