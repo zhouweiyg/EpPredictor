@@ -1,0 +1,159 @@
+nohup: ignoring input
+ENCFF070OIO has been extracted, continue
+ENCFF362TZV has been extracted, continue
+ENCFF296UFF has been extracted, continue
+ENCFF375BAC has been extracted, continue
+ENCFF775ZPD has been extracted, continue
+ENCFF882BWU has been extracted, continue
+ENCFF477ADG has been extracted, continue
+ENCFF551KOG has been extracted, continue
+ENCFF497YWO has been extracted, continue
+ENCFF940YUU has been extracted, continue
+ENCFF366NUF has been extracted, continue
+ENCFF050VDL has been extracted, continue
+ENCFF060FTC has been extracted, continue
+ENCFF460AIN has been extracted, continue
+ENCFF591URJ has been extracted, continue
+ENCFF574TBH has been extracted, continue
+ENCFF724FBP has been extracted, continue
+ENCFF731ASC has been extracted, continue
+ENCFF925XIR has been extracted, continue
+ENCFF635GQB has been extracted, continue
+ENCFF805SYF has been extracted, continue
+ENCFF689QNO has been extracted, continue
+ENCFF427NVF has been extracted, continue
+ENCFF263ADC has been extracted, continue
+ENCFF619TUA has been extracted, continue
+ENCFF073VZT has been extracted, continue
+ENCFF021IHE has been extracted, continue
+ENCFF895BJS has been extracted, continue
+ENCFF886HLJ has been extracted, continue
+ENCFF719YRP has been extracted, continue
+ENCFF383SRY has been extracted, continue
+ENCFF888HHD has been extracted, continue
+ENCFF958APN has been extracted, continue
+ENCFF408YVC has been extracted, continue
+ENCFF604LSK has been extracted, continue
+histone nums=  19
+     chrom-Enh  chromStart   chromEnd        TSS  label    id
+0         chr1   169082600  169083200  169337000      1     0
+1         chr1    68027800   68028000   68150600      1     1
+2        chr20    60644800   60645400   60697400      1     2
+3         chr7   105406400  105407200  105517000      1     3
+4        chr20    24974400   24974800   25176200      1     4
+5        chr20    30250000   30250200   30311400      1     5
+6         chr1   178509400  178510600  178694200      1     6
+7         chr8   103822200  103822400  103668000      1     7
+8        chr14   105511800  105512200  105444600      1     8
+9         chr3   177186000  177186200  176915000      1     9
+10        chr5    95673200   95673400   95297600      1    10
+11       chr12   109011600  109012600  108956200      1    11
+12       chr20      335200     335400     634000      1    12
+13        chr6    52528000   52528200   52284800      1    13
+14       chr12    14414200   14414400   14518200      1    14
+15        chr4    39697400   39697800   39979400      1    15
+16        chr2   232477400  232477600  232645400      1    16
+17       chr10    52178800   52179000   52383600      1    17
+18        chr5   169129200  169129600  169010400      1    18
+19        chr2   222308600  222308800  222437000      1    19
+20       chr16    75139800   75140200   75032800      1    20
+21       chr13    51105800   51106000   50656200      1    21
+22        chr1      841200     841400     895800      1    22
+23        chr3   137797600  137797800  137905800      1    23
+24       chr10     5985400    5986400    6130800      1    24
+25        chr3   179524000  179524200  180319600      1    25
+26        chr6   108877000  108877600  109703600      1    26
+27        chr7    44889000   44889200   44621800      1    27
+28        chr8    36949400   36949800   37594000      1    28
+29        chr9    94533600   94534200   94712400      1    29
+...        ...         ...        ...        ...    ...   ...
+2478      chr1   109357400  109357600  109506000      0  2478
+2479     chr14    91709600   91709800   90085000      0  2479
+2480     chr17    42908400   42908600   42785800      0  2480
+2481     chr10   104212600  104212800  104153800      0  2481
+2482      chr3    11186800   11187200   12525800      0  2482
+2483     chr21    47167600   47167800   47063600      0  2483
+2484      chr5   149994800  149995400  150138200      0  2484
+2485      chr6   169828200  169829200  170124000      0  2485
+2486     chr11    63435600   63436000   63536000      0  2486
+2487      chr7   106418800  106419400  106685000      0  2487
+2488     chr19    55979600   55979800   56186400      0  2488
+2489      chr4   102113000  102113200  102268600      0  2489
+2490      chr9   100801800  100802000  100684400      0  2490
+2491      chr2   190477600  190478800  190305400      0  2491
+2492      chr3   122397800  122398000  122512600      0  2492
+2493      chr3    11376000   11376200   11313800      0  2493
+2494      chr8    37492400   37492600   37605200      0  2494
+2495      chr3   123501400  123501600  123680000      0  2495
+2496     chr14    75893600   75893800   76044600      0  2496
+2497     chr19    19083800   19084000   19174600      0  2497
+2498     chr19    52206800   52207000   51869600      0  2498
+2499      chr7    16783200   16783600   16685400      0  2499
+2500     chr17    78845800   78847400   79008400      0  2500
+2501     chr12    27702400   27702600   26110800      0  2501
+2502     chr22    29471200   29471400   30234200      0  2502
+2503     chr22    30085200   30086200   30163000      0  2503
+2504      chr8    37637200   37637600   37552800      0  2504
+2505     chr14    69736200   69736400   71374000      0  2505
+2506      chr1   156784400  156784800  155214000      0  2506
+2507     chr19    37330400   37330600   38893600      0  2507
+
+[2508 rows x 6 columns]
+Process will start, process histon_df nums=0
+Process will start, process histon_df nums=1
+Process will start, process histon_df nums=1
+Process will start, process histon_df nums=2
+Process will start, process histon_df nums=2
+Process will start, process histon_df nums=3
+Process will start, process histon_df nums=3
+Process will start, process histon_df nums=4
+Process will start, process histon_df nums=4
+Process will start, process histon_df nums=5
+Process will start, process histon_df nums=5
+Process will start, process histon_df nums=6
+Process will start, process histon_df nums=6
+Process will start, process histon_df nums=7
+Process will start, process histon_df nums=7
+Process will start, process histon_df nums=8
+Process will start, process histon_df nums=8
+Process will start, process histon_df nums=9
+Process will start, process histon_df nums=9
+Process will start, process histon_df nums=10
+Process will start, process histon_df nums=10
+Process will start, process histon_df nums=11
+Process will start, process histon_df nums=11
+Process will start, process histon_df nums=12
+Process will start, process histon_df nums=12
+Process will start, process histon_df nums=13
+Process will start, process histon_df nums=13
+Process will start, process histon_df nums=14
+Process will start, process histon_df nums=14
+Process will start, process histon_df nums=15
+Process will start, process histon_df nums=15
+Process will start, process histon_df nums=16
+Process will start, process histon_df nums=16
+Process will start, process histon_df nums=17
+Process will start, process histon_df nums=17
+Process will start, process histon_df nums=18
+Process will start, process histon_df nums=18
+Process will start, process histon_df nums=19
+GSM1003615_hg19_wgEncodeSydhTfbsImr90Rfx5IggrabPk (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+GSM1003612_hg19_wgEncodeSydhTfbsImr90Corestsc30189IggrabPk (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+GSM1003614_hg19_wgEncodeSydhTfbsImr90Mxi1IggrabPk (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+GSM935513_hg19_wgEncodeSydhTfbsImr90Pol2IggrabPk (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+GSM1055812_p300.IMR90 (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF343ISY (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF147QXV (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF950ARZ (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF522TKF (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF306SXM (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF917EWZ (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF544BXD (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF714YWI (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF358CUC (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF931EIV (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF368EKX (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF649TQP (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF231BSS (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+ENCFF124ZIE (2508, 17) (2508, 17) (2508, 17) (2508, 17)
+Process end.

@@ -1,0 +1,118 @@
+nohup: ignoring input
+histone nums=  17
+     chrom-Enh  chromStart   chromEnd        TSS  label    id
+0        chr12    92967000   92967200   92539600      1     0
+1        chr15    83500600   83501800   83654800      1     1
+2        chr18    67953800   67954400   67872800      1     2
+3        chr21    45564200   45564600   45719800      1     3
+4         chr6    64058400   64058600   64282200      1     4
+5         chr1    27438600   27439200   27719000      1     5
+6        chr21    46548200   46548800   46359800      1     6
+7         chr3   160393400  160393600  160283200      1     7
+8         chr7    44297200   44297600   44621800      1     8
+9        chr12    94145600   94145800   93963400      1     9
+10       chr12    94137400   94137600   93963400      1    10
+11        chr2   220150000  220150800  220025200      1    11
+12        chrX   102701200  102701600  102470000      1    12
+13        chr4   120974600  120974800  120550000      1    13
+14        chr1   162826400  162826600  163291400      1    14
+15        chr1   178512800  178513000  178994800      1    15
+16       chr16    11054800   11055600   11349600      1    16
+17        chr1   234251000  234251400  234614000      1    17
+18        chr6   116586000  116587000  116892400      1    18
+19        chr6   108863000  108863400  109169600      1    19
+20        chr5    79790000   79790200   79950200      1    20
+21        chr1    16509200   16509400   16399800      1    21
+22       chr22    33041400   33041600   33197600      1    22
+23        chr6    42012000   42012200   41754200      1    23
+24       chr14    91783200   91783600   91884000      1    24
+25       chr17    28167800   28168000   28257200      1    25
+26       chr12    94145600   94145800   93965400      1    26
+27        chr8    74563600   74563800   74206000      1    27
+28        chr4   103932800  103933400  103748800      1    28
+29        chr1    89930600   89931800   89457800      1    29
+...        ...         ...        ...        ...    ...   ...
+2552      chr6   159528800  159529200  159420800      0  2552
+2553      chr1    26631800   26632000   26758600      0  2553
+2554      chr1   151969400  151969800  151763200      0  2554
+2555     chr16    30951600   30952200   30662000      0  2555
+2556      chr4   100919400  100919600  100867800      0  2556
+2557     chr15    90381600   90381800   90198600      0  2557
+2558     chr20     3400800    3401000    3185200      0  2558
+2559      chr2   224760400  224760800  225906800      0  2559
+2560     chr19    46256200   46256600   46389000      0  2560
+2561     chr20    47989000   47989400   47835800      0  2561
+2562     chr21    43105600   43105800   43299400      0  2562
+2563     chr15    41500800   41501200   41576000      0  2563
+2564     chr16    11703600   11704600   11836600      0  2564
+2565     chr20    49408000   49408200   49639400      0  2565
+2566      chr5    36451800   36453200   36152000      0  2566
+2567      chr5   148704800  148705400  148931000      0  2567
+2568      chr3   101881600  101882800  101546400      0  2568
+2569     chr20    45036200   45036600   44718400      0  2569
+2570      chr1   182932600  182932800  182992200      0  2570
+2571     chr19     9695600    9695800   10713000      0  2571
+2572      chr7   111710200  111710400  111846400      0  2572
+2573      chr2    27959200   27959400   27712600      0  2573
+2574     chr15    41128000   41128400   40886000      0  2574
+2575      chr6     7268800    7269000    7389600      0  2575
+2576      chr5    66136600   66136800   65892000      0  2576
+2577     chr16     2581200    2581400    2653200      0  2577
+2578     chr13    26854200   26854600   27131600      0  2578
+2579     chr14    50439800   50440400   50999200      0  2579
+2580      chr4     2415600    2416000    1857800      0  2580
+2581      chr3   101703000  101703400  101498000      0  2581
+
+[2582 rows x 6 columns]
+Process will start, process histon_df nums=0
+Process will start, process histon_df nums=1
+Process will start, process histon_df nums=1
+Process will start, process histon_df nums=2
+Process will start, process histon_df nums=2
+Process will start, process histon_df nums=3
+Process will start, process histon_df nums=3
+Process will start, process histon_df nums=4
+Process will start, process histon_df nums=4
+Process will start, process histon_df nums=5
+Process will start, process histon_df nums=5
+Process will start, process histon_df nums=6
+Process will start, process histon_df nums=6
+Process will start, process histon_df nums=7
+Process will start, process histon_df nums=7
+Process will start, process histon_df nums=8
+Process will start, process histon_df nums=8
+Process will start, process histon_df nums=9
+Process will start, process histon_df nums=9
+Process will start, process histon_df nums=10
+Process will start, process histon_df nums=10
+Process will start, process histon_df nums=11
+Process will start, process histon_df nums=11
+Process will start, process histon_df nums=12
+Process will start, process histon_df nums=12
+Process will start, process histon_df nums=13
+Process will start, process histon_df nums=13
+Process will start, process histon_df nums=14
+Process will start, process histon_df nums=14
+Process will start, process histon_df nums=15
+Process will start, process histon_df nums=15
+Process will start, process histon_df nums=16
+Process will start, process histon_df nums=16
+Process will start, process histon_df nums=17
+NHEK16 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK2 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK3 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK1 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK8 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK14 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK7 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK6 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK9 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK17 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK5 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK15 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK13 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK12 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK4 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK10 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+NHEK11 (2582, 17) (2582, 17) (2582, 17) (2582, 17)
+Process end.
