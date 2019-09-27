@@ -80,7 +80,8 @@ then into folder **path/EpPredictor/EP-interaction/Viaualization/model/**, and o
 
 - step3: merge chip seq features:
 
-  into folder *path/EpPredictor/EP-interaction/scripts/*, run **merge_all.py** 
+  into folder *path/EpPredictor/EP-interaction/scripts/*, and run **merge_all.py** 
+ : ```python run merge_all.py ```
 
 - step4: extract sequence features
 
